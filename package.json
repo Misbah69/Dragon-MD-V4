@@ -1,7 +1,7 @@
 {
                "name": "Dragon-Md",
                "version": "4.0",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by ༒𝛥𝑌𝛥𝛮༒🌔.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,10 +9,10 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name dragon-md",
                 "stop": "pm2 stop dragon-md"
                 },
-               "author": "Ameesha",
+               "author": "༒𝛥𝑌𝛥𝛮༒🌔",
               "dependencies": {
-                       "@sampandey001/baileys": "latest", 
-                       "@adiwajshing/keyed-db": "^0.2.4",
+                       "@༒𝛥𝑌𝛥𝛮༒🌔1/baileys": "latest", 
+                       "@༒𝛥𝑌𝛥𝛮༒🌔/keyed-db": "^0.2.4",
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
                        "axios": "^0.24.0",
